@@ -23,9 +23,3 @@ For mobile setup, please see `/mobile`.
 - `cd` into `/web` and run `npm install`, then run `npm run start`
 - `ctrl + a` then `d` to exit the screen
 - You may now disconnect your SSH session
-
-# Development Documentation
-
-- [Feature Task Breakdown](https://docs.google.com/spreadsheets/d/1Of-uKO3uS7N0g9iKk9wQNg0DKotKLKIcH9sKwsX65v8/edit?usp=sharing)
-
-- [Post Mortem Report](https://docs.google.com/document/d/18hYz1XLmgJHzBxUc-ey3qLUQKf4Y-lHxPWzEGcQPcJk/edit?usp=sharing)
