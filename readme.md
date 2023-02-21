@@ -1,8 +1,3 @@
-# Note
-
-This repo is duplicated from `ZackHJ/comp4350-project` and is intended as a fork of the project.  
-Perhaps I'll come back to this later and develop it further.
-
 # About
 
 Coherent Chaos is a web-based hexagonal checkers-like board game. 2 players compete to capture each others' pieces while the hexagonal game board shrinks.
@@ -23,3 +18,8 @@ For mobile setup, please see `/mobile`.
 - `cd` into `/web` and run `npm install`, then run `npm run start`
 - `ctrl + a` then `d` to exit the screen
 - You may now disconnect your SSH session
+
+# Note
+
+This repo is duplicated from `ZackHJ/comp4350-project` and is intended as a fork of the project.  
+Perhaps I'll come back to this later and develop it further.
